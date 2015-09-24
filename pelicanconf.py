@@ -20,14 +20,15 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Auburn University', 'http://www.auburn.edu/'),
+    ('Pelican', 'http://getpelican.com/'),
+    ('Python.org', 'http://python.org/'),
+    ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Zachary Sarver on Facebook', 'https://www.facebook.com/VyseofArcadia'),
+          ('@VyseofArcadia on Twitter', 'https://twitter.com/VyseofArcadia'),
+          ('Zachary Sarver on Google+', 'https://plus.google.com/u/0/107346758370734324176/posts'),)
 
 DEFAULT_PAGINATION = 10
 THEME = "blueidea"
