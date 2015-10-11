@@ -4,6 +4,7 @@ About
 :tags: informative
 :slug: about
 :authors: Zachary Sarver
+:save_as: index.html
 :summary: Getting to know me; getting to know all about me.
 
 My name is Zachary Sarver, and I am a PhD candidate in mathematics at Auburn
