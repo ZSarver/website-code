@@ -8,7 +8,8 @@ About
 :summary: Getting to know me; getting to know all about me.
 
 My name is Zachary Sarver, and I am a PhD candidate in mathematics at Auburn
-University. You most likely followed one of the links in my CV, so you knew that
+University. You most likely followed one of the links in `my CV
+<https://github.com/ZSarver/cv/blob/master/CV.pdf>`_, so you knew that
 already. I'll get back to the serious stuff shortly, but here are a few things
 about me that you **won't** learn from reading my curriculum vitae:
 
