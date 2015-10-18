@@ -32,12 +32,12 @@ about me that you **won't** learn from reading my curriculum vitae:
   <https://en.wikipedia.org/wiki/Skies_of_Arcadia>`_ when I'm not writing my
   dissertation.
 * I collect Sega hardware and games.
-* Chess is fun when you play casually, and Go is interesting, but what I'm
-  really fascinated with is `Arimaa <http://arimaa.com/arimaa/>`_, a game
-  designed to be easy for humans to pick up and play but extremely difficult for
-  computers to master.
-* Constructed languages and writing systems fascinate me. I've designed two
-  writing systems, and I know just a bit of `Lojban
+* Chess is fun when you play casually, and Go is interesting for a variety of
+  reasons, but what I'm really fascinated with is `Arimaa
+  <http://arimaa.com/arimaa/>`_, a game designed to be easy for humans to pick
+  up and play but extremely difficult for computers to master.
+* Constructed languages and writing systems fascinate me. I've designed a
+  writing system, and I know just a bit of `Lojban
   <https://mw.lojban.org/papri/Lojban>`_. coi rodo .i la lojban. cinri mi.
 * I love music of all styles and genres (except country.) I especially enjoy
   `progressive rock <https://en.wikipedia.org/wiki/The_Mars_Volta>`_, my
@@ -53,13 +53,9 @@ are primarily in:
 * matrix analysis
 * Lie theory
 
-I'm also quite curious about:
-
-* multilinear algebra
-* category theory
-* symmetric and inverse limit spaces
-* computability
-* programming language design
+I'm unpublished in but interested in **multilinear algebra, category theory,
+symmetric and inverse limit spaces, computability**, and **programming language
+design.**
 
 On the topic of programming language design, I'm proficient in a few programming
 languages:
@@ -69,15 +65,21 @@ languages:
 * Python
 * Haskell
 
-And I have at least a little experience in quite a few more:
+I have at least a little experience in quite a few more: **Java, Ruby, Go, Rust,
+MOS 6502 assembly** (on the Atari 2600 and Apple //e,) and **Zilog Z80
+assembly** (on the Sega SG-1000 and Sega Master System.)
 
-* Java
-* Ruby
-* Go
-* Rust
-* MOS 6502 assembly (on the Atari 2600 and Apple //e)
-* Zilog Z80 assembly (on the Sega SG-1000 and Sega Master System)
+I've done a significant amount of teaching in my time at Auburn, and I've been
+the instructor of record for the following courses:
+
+* Precalculus Algebra
+* Calculus I, II, and III
+* Business Calculus
+* Linear Algebra (sophomore level)
 
 In my spare time (I know, right? Who has that?) I'm active in the `Auburn puzzle
 scene <http://auburnpuzzleparty.wikia.com/wiki/Home>`_ as a participant, puzzle
-designer, and event organizer.
+designer, and event organizer. I've become involved in Auburn's AMP'd Challenge
+and Steven Clontz's `Mathematical Puzzle Programs <http://mappmath.org>`_ for
+middle and high school students as a website maintainer, occasional sounding
+board, and guy who shows up at the meetings for the free food.
