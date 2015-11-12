@@ -21,14 +21,14 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Auburn University', 'http://www.auburn.edu/'),
-    ('Pelican', 'http://getpelican.com/'),
+    ('OverClocked Remix', 'http://ocremix.org/'),
     ('Python.org', 'http://python.org/'),
-    ('Jinja2', 'http://jinja.pocoo.org/'),)
+    ('Radio Sega', 'https://www.radiosega.net/'),)
 
 # Social widget
 SOCIAL = (('Zachary Sarver on Facebook', 'https://www.facebook.com/VyseofArcadia'),
           ('@VyseofArcadia on Twitter', 'https://twitter.com/VyseofArcadia'),
-          ('Zachary Sarver on Google+', 'https://plus.google.com/u/0/107346758370734324176/posts'),)
+          ('Zachary Sarver on Google+', 'https://plus.google.com/u/0/107346758370734324176/posts'), ('Zachary Sarver on Github', 'https://github.com/ZSarver'),)
 
 DEFAULT_PAGINATION = 10
 THEME = "blueidea"
