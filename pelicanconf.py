@@ -33,5 +33,7 @@ SOCIAL = (('Zachary Sarver on Facebook', 'https://www.facebook.com/VyseofArcadia
 DEFAULT_PAGINATION = 10
 THEME = "blueidea"
 
+STATIC_PATHS = ['images','zips']
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

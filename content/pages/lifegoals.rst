@@ -18,7 +18,8 @@ Life Goals
 
 * Get a bachelors degree. **STATUS:** Completed
 * Publish a math paper. **STATUS:** Completed
-* Get a PhD. **STATUS:** I see the light at the end of the tunnel
+* Get a PhD. **STATUS:** Completed
+* Get a job. **STATUS:** I'm working on it
 * Write a game for every Sega console. **STATUS:** Learning Z80 assembly, a
   prerequisite for the SG-1000, Master System, and Genesis
 * Beat Ecco the Dolphin. **STATUS:** The game is hard, ok, and I don't have

@@ -4,10 +4,11 @@ About
 :tags: informative
 :slug: about
 :authors: Zachary Sarver
+:url: 
 :save_as: index.html
 :summary: Getting to know me; getting to know all about me.
 
-My name is Zachary Sarver, and I am a PhD candidate in mathematics at Auburn
+My name is Zachary Sarver. I hold a PhD in mathematics from Auburn
 University. You most likely followed one of the links in `my CV
 <https://github.com/ZSarver/cv/blob/master/CV.pdf>`_ or `my resume
 <https://github.com/ZSarver/cv/blob/master/resume/resume.pdf>`_ , so you knew
@@ -16,7 +17,7 @@ things about me that you **won't** learn from reading my curriculum vitae:
 
 * Here's what I look like:
   
-.. image:: {filename}../images/me.jpg
+.. image:: {filename}/images/me.jpg
    :height: 200
    :width: 200
 	   
@@ -30,8 +31,7 @@ things about me that you **won't** learn from reading my curriculum vitae:
   <https://en.wikipedia.org/wiki/Kirby_Super_Star>`_ and `arcade-style games
   <http://www.pastagames.com/pix-the-cat/>`_. I love to sink my teeth into a
   good `strategy game <http://www.nisamerica.com/games/pb/>`_ or `RPG
-  <https://en.wikipedia.org/wiki/Skies_of_Arcadia>`_ when I'm not writing my
-  dissertation.
+  <https://en.wikipedia.org/wiki/Skies_of_Arcadia>`_ when I have the time.
 * I collect Sega hardware and games.
 * Chess is fun when you play casually, and Go is interesting for a variety of
   reasons, but what I'm really fascinated with is `Arimaa
@@ -45,7 +45,7 @@ things about me that you **won't** learn from reading my curriculum vitae:
   favorite symphony is `Mahler's 2nd
   <https://www.youtube.com/watch?v=Bdc5n562zZg>`_, and a big shoutout to
   `OverClocked Remix <http://ocremix.org/>`_ for the literally hundreds of hours
-  of free music to write my dissertation to.
+  of free music.
 
 And now back to the stuff that you could glean from my CV. My research interests
 are primarily in:
@@ -65,8 +65,9 @@ languages:
 * C++
 * Python
 * Haskell
+* Java
 
-I have at least a little experience in quite a few more: **Java, Ruby, Go, Rust,
+I have at least a little experience in quite a few more: **Ruby, Go, Rust,
 MOS 6502 assembly** (on the Atari 2600 and Apple //e,) and **Zilog Z80
 assembly** (on the Sega SG-1000 and Sega Master System.)
 
